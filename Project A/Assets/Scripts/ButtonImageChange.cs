@@ -11,7 +11,6 @@ public class ButtonImageChange : MonoBehaviour
 
     public void trocar()
     {
-        
         if (ativo)
         {
             botao.image.sprite = Imagem2;
